@@ -65,8 +65,8 @@
     * [Laboratory](point-of-care-poc/work-flows/laboratory.md)
     * [Pharmacy](point-of-care-poc/work-flows/pharmacy.md)
 * Patient Data Upload
-    
     * [Uploading Viral Load Results](patient_data_exchange/upload_vl_results.md)
+* [Setting Up Syncing Data to Central Server](shared-health-record/setup-sync-to-shr.md)
 * [Release Notes](release-notes/README.md)
   * [1.0.14](release-notes/ugandaemr-1014.md)
   
